@@ -5039,7 +5039,6 @@ MonoBehaviour:
     m_Bits: 64
   board: {fileID: 725234007}
   testingCurrentPlayerID: 0
-  positionSelections: []
 --- !u!114 &814468788
 MonoBehaviour:
   m_ObjectHideFlags: 0
